@@ -1,3 +1,5 @@
+
+![](https://images4.alphacoders.com/973/thumb-1920-973967.jpg)
 ### Hi there 👋
 
 I'm Rixsica, a frontend developer. My pronouns are she/her.
